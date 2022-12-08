@@ -36,7 +36,7 @@ function App() {
       <h1>hava durumu uygulaması</h1>
       <h3>enleminiz:{latitude}</h3>
       <h3>boylamınız:{longitude}</h3>
-      <h1>{}</h1>
+      <h1>hava durumundaki verileri teknik aksaklık yüzünden alamıyoruz</h1>
     
       
     </div>
